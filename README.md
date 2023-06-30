@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dkyoung2004/dkyoung2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=DDa_GGuen%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=&color=0:33FFC8,100:144C7C&height=300&section=header&text=DDa_GGuen%20&fontSize=90)
