@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:33FFC8,100:144C7C&height=150&section=header&text=DDa_GGuen%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:33FFC8,100:144C7C&height=200&section=header&text=DDa_GGuen%20&animation=fadeIn&fontSize=90)
