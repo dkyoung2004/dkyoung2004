@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&section=header&fontcolor=144C7C&text=DDa_GGuen%20&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=DDa_GGuen%20&fontcolor=144C7C&animation=fadeIn&fontSize=90)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkyoung2004)](https://solved.ac/dkyoung2004)
