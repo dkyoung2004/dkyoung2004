@@ -1,4 +1,5 @@
-# dkyoung2004
+# R00tDu<K
+
 
 **시스템을 이해하고, 그 안의 취약점을 탐구합니다.**
 
@@ -42,7 +43,3 @@
 ---
 
 *배운 것을 코드로 확인하고, 이해한 것을 글로 남깁니다.*
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkyoung2004)](https://solved.ac/dkyoung2004)
